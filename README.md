@@ -1,3 +1,1 @@
----
-# redux-form-material-ui
----
+Redux-MaterialUI
